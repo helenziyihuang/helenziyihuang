@@ -15,7 +15,7 @@ I earned my Bachelor of Science degree in Computer Science and Pharmacology at U
   - [Chaotic System](https://github.com/helenziyihuang/mcdb172_f20_hw9_chaotic_system)
 
 
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenziyihuang&count_private=true)
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenziyihuang&show_icons=true&hide=commits)
 
 
 ----
