@@ -14,5 +14,9 @@ I earned my Bachelor of Science degree in Computer Science and Pharmacology at U
   - [t-test for Pharmacology Mouse Ear Lab](https://github.com/helenziyihuang/t-test_MouseEar_Pharmacology_Exp7)
   - [Chaotic System](https://github.com/helenziyihuang/mcdb172_f20_hw9_chaotic_system)
 
+
+![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenziyihuang&count_private=true)
+
+
 ----
 *Please understand that most repositories are kept private to protect intellectual property.
