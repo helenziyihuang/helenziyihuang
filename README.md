@@ -1,6 +1,7 @@
 **Hi** 👋
 
-I’m Helen, a recent college graduate. I am interested in machine learning and computational science.
+I’m Helen, a Master's student in Computer Science at Cornell University, Cornell Tech Campus. I am interested in machine learning and computational science, especially in the healthcare tech domain.
+
 I earned my Bachelor of Science degree in Computer Science and Pharmacology at UC Santa Barbara, where...
 - I participated in a Data Science Capstone Project and studied a rare genetic mutation that causes early-onset Alzheimer's Disease. Check out the links below for more.
   - [Official Description Site](https://centralcoastdatascience.org/projects/all/2021/exploring-and-understanding-rare-genetic-mutation-causes-early-onset-alzheimers)
