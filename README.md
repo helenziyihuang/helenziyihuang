@@ -5,7 +5,7 @@ _I’m Helen, a Master's student studying Computer Science at Cornell University
 <br/>
 
 **During my Master's journey, I experience developing products and building startups, where...**
-- I developed a product idea to mitigate Airport opertional distruptions. The project was supported by Port Authority of NY & NJ and LaGuardia Gateway Partners, and was selected to be presented at Cornell's open events. Check out our presentation below.
+- I developed a product idea to mitigate airport opertional distruptions. The project was supported by Port Authority of NY & NJ and LaGuardia Gateway Partners, and was selected to be presented at Cornell's open event. Check out our presentation below.
   - [Screening on Wheels Presentation](https://drive.google.com/file/d/1DKymaXVgOiByycYncjKKzSJdK16vzJru/view)
 
 <br/>
