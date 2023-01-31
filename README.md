@@ -1,16 +1,16 @@
-**Hi** 👋
+## Hi 👋
 
-I’m Helen, a Master's student studying Computer Science at Cornell University, Cornell Tech Campus. With background in various disciplines and an entrepreneurial mindset, I am passionate about exploring opportunities at the intersection of technology, healthcare, and business, and create values and social impacts from there.
+_I’m Helen, a Master's student studying Computer Science at Cornell University. With background in various disciplines and an entrepreneurial mindset, I am passionate about exploring opportunities at the intersection of technology, healthcare, and business, and create values and social impacts from there._
 
 <br/>
 
-During my Master's journey, I experience developing products and building startups, where...
+**During my Master's journey, I experience developing products and building startups, where...**
 - I developed a product idea to mitigate Airport opertional distruptions. The project was supported by Port Authority of NY & NJ and LaGuardia Gateway Partners, and was selected to be presented at Cornell's open events. Check out our presentation below.
   - [Screening on Wheels Presentation](https://drive.google.com/file/d/1DKymaXVgOiByycYncjKKzSJdK16vzJru/view)
 
 <br/>
 
-I earned my Bachelor of Science degree in Computer Science and Pharmacology at UC Santa Barbara, where...
+**I earned my Bachelor of Science degree in Computer Science and Pharmacology at UC Santa Barbara, where...**
 - I participated in a Data Science Capstone Project and studied a rare genetic mutation that causes early-onset Alzheimer's Disease. Check out the links below for more.
   - [Official Description Site](https://centralcoastdatascience.org/projects/all/2021/exploring-and-understanding-rare-genetic-mutation-causes-early-onset-alzheimers)
   - [Final Report/Paper](https://drive.google.com/file/d/1vPySCN4vDqJvLGjy2PA4LOsAEz9317TR/view?usp=sharing)
