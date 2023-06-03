@@ -24,8 +24,3 @@ _I’m Helen, a Master's student studying Computer Science at Cornell University
   - [COVID-19 Analysis Using SIR Model](https://github.com/helenziyihuang/cs190dd_f20_COVID_19_SIR_project)
   - [t-test for Pharmacology Mouse Ear Lab](https://github.com/helenziyihuang/t-test_MouseEar_Pharmacology_Exp7)
   - [Chaotic System](https://github.com/helenziyihuang/mcdb172_f20_hw9_chaotic_system)
-
-----
-*Please understand that most repositories are kept private to protect intellectual property.
-
-![Helen's GitHub stats](https://github-readme-stats.vercel.app/api?username=helenziyihuang&show_icons=true&hide=commits)
