@@ -14,7 +14,7 @@ _I’m Helen, an entrepreneur who understands technology, a coder who cares for 
 - I studied data science for social change, and experimented writing a journal style article on the topic of AI doctor and related societal implications, targeting the general audience.
   - [Got an AI doctor? Reconsider telling it your race.](https://drive.google.com/file/d/1NTKiw9c9T0awc3UcXKL2nwWliVXXdDOT/view)
 - I built models on YouTube data to investigate and identify patterns in user traffics, and came up with actionable strategies for content creators to improve video metrics with minimal efforts.
-  - [Python Code](https://github.com/helenziyihuang/Youtube_Content_Strategy-Showcase)
+  - [Python Code](https://github.com/helenziyihuang/cs5304_s23_youtube_content_strategy_project)
   - [Strategy Presentation](https://drive.google.com/file/d/1yUvdkTrzIi56FbSiCM1w13G8qfhi3gcY/view)
 
 <br/>
