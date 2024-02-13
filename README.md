@@ -1,12 +1,21 @@
 ## Hi 👋
 
-_I’m Helen, a Master's student studying Computer Science at Cornell University. With background in various disciplines and an entrepreneurial mindset, I am passionate about exploring opportunities at the intersection of technology, healthcare, and business, and create values and social impacts from there._
+_I’m Helen, an entrepreneur who understands technology, a coder who cares for healthcare, a science enthusiast who loves art. I cultivate potentials at the intersection of these fields to create business values and social impacts._
 
 <br/>
 
-**During my Master's journey, I experience developing products and building startups, where...**
-- I developed a product idea to mitigate airport opertional distruptions. This project was supported by Port Authority of NY & NJ and LaGuardia Gateway Partners, and was selected to be presented at Cornell's open event.
-  - [Screening on Wheels Presentation](https://drive.google.com/file/d/1DKymaXVgOiByycYncjKKzSJdK16vzJru/view)
+**During my Master's journey at Cornell, I innovated (in aviation, in arts, in AI, in healthcare, in ...), where...**
+- I developed a product idea to mitigate airport opertional distruptions. This project was supported by Port Authority of NY & NJ and LaGuardia Gateway Partners, and was selected to be presented at Cornell's open studio event.
+  - [Screening on Wheels Presentation](https://drive.google.com/file/d/1L_CWRcg6DSPSuMpZI5n2ZQFjcXwgsq0J/view)
+- I built a startup idea to bridge the gap between emerging artists and business spaces, which boosts income for artists and breaks down barriers for space owners to access arts.
+  - [ArtLænd Pitch Showcase](https://drive.google.com/file/d/1xOkpgARWH3MyWNBCPxXVJwC65zO1oshH/view)
+- I utilized generative AI tools to help newcomers enjoy classical music through multisensory integration.
+  - [Tune - AI x Classical Music](https://drive.google.com/file/d/1TxFgxfMvSrVG5Ag6NDZ1fUpL7MlF1zqI/view)
+- I studied data science for social change, and experimented writing a journal style article on the topic of AI doctor and related societal implications, targeting the general audience.
+  - [Got an AI doctor? Reconsider telling it your race.](https://drive.google.com/file/d/1NTKiw9c9T0awc3UcXKL2nwWliVXXdDOT/view)
+- I built models on YouTube data to investigate and identify patterns in user traffics, and came up with actionable strategies for content creators to improve video metrics with minimal efforts.
+  - [Python Code](https://github.com/helenziyihuang/Youtube_Content_Strategy-Showcase)
+  - [Strategy Presentation](https://drive.google.com/file/d/1yUvdkTrzIi56FbSiCM1w13G8qfhi3gcY/view)
 
 <br/>
 
