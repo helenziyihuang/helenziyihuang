@@ -1,6 +1,6 @@
 ## Hi 👋
 
-_I’m Helen, an entrepreneur who understands technology, a coder who cares for healthcare, a science enthusiast who loves art. I cultivate potentials at the intersection of these fields to create business values and social impacts._
+_I’m Helen, an entrepreneur who speaks tech, an engineer who minds healthcare, a science enthusiast who loves art. I cultivate potentials at the intersection of these fields to create business values and social impacts. ...and I work in Finance._
 
 <br/>
 
